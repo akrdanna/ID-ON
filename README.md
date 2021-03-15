@@ -14,5 +14,7 @@ Inspirations:
 Arcaea, Muse Dash, Bang Dream
 
 Tutorials used to kickstart the project:
+
 ing anime: https://www.youtube.com/watch?v=I4eoaXYeT20
+
 gamesplusjames: https://www.youtube.com/watch?v=cZzf1FQQFA0
