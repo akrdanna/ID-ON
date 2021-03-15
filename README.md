@@ -12,3 +12,7 @@ First built with Unity 2019.4, then switched to Unity 2020.3.0f1.
 
 Inspirations:
 Arcaea, Muse Dash, Bang Dream
+
+Tutorials used to kickstart the project:
+ing anime: https://www.youtube.com/watch?v=I4eoaXYeT20
+gamesplusjames: https://www.youtube.com/watch?v=cZzf1FQQFA0
